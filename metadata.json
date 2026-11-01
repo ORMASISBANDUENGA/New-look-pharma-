@@ -1,0 +1,6 @@
+{
+  "name": "NEW LOOK PHARMA",
+  "description": "Plateforme de gestion pharmaceutique multi-sites (Réseau New Look Pharma & New Look El Medicamed en RDC) : portail public, POS caisse, gestion des stocks FEFO, finances multi-devises USD/CDF, audit et consolidation réseau pour l'Administrateur Général.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

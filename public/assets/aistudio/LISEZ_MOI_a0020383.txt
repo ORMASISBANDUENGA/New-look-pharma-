@@ -1,0 +1,21 @@
+NEW LOOK PHARMA — DOSSIER DOCUMENTAIRE VERSION 1.1
+
+Le dossier contient 9 documents en DOCX modifiable et PDF :
+01 TAR
+02 PRD
+03 Cahier des charges fonctionnel
+04 Architecture technique
+05 Matrice des rôles et permissions
+06 Règles de stock, ventes et comptabilité
+07 Sécurité, confidentialité et conformité
+08 Plan de tests et recette
+09 Roadmap, déploiement et maintenance
+
+Mises à jour confirmées :
+- Logo officiel intégré à partir de la capture transmise.
+- Deux devises : USD et CDF.
+- Chaque extension garde sa propre caisse, son propre stock et ses propres finances.
+- L'Administrateur général n°1 consulte les résultats consolidés de tout le réseau.
+- Les conversions conservent un taux daté et n'altèrent jamais les transactions historiques.
+
+Les règles fiscales, pharmaceutiques, comptables et de confidentialité doivent être validées par les professionnels compétents en RDC avant mise en production.
